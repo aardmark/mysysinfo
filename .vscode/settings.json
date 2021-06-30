@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "*.lst": true,
+        "*.o": true,
+        "mysysinfo": true
+    }
+}
